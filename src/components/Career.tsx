@@ -15,43 +15,36 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Full Stack Developer</h4>
+                <h5>VRTX</h5>
               </div>
-              <h3>20XX</h3>
+              <h3>2025 - Present</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              I work as a Full Stack Developer at VRTX, building scalable web applications, modern websites, and AI-powered digital solutions. I handle both frontend and backend development, focusing on performance, clean architecture, and SEO-friendly systems that help businesses grow online.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Freelance & Personal Project </h4>
+                <h5>Self-Driven Work</h5>
               </div>
-              <h3>20XX</h3>
+              <h3>2024-2025</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Worked on multiple real-world projects including portfolio websites, AI chatbots, automation systems, and full stack applications. Focused on building responsive, fast, and user-friendly digital products while improving problem-solving and development skills.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Learning & Skill Development</h4>
+                <h5>Self Learning</h5>
               </div>
-              <h3>NOW</h3>
+              <h3>2024 To Now</h3>
             </div>
-            <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+            <p>Started my journey in web development by learning frontend and backend technologies, programming fundamentals, and modern development tools. Built small projects to understand real-world development and strengthen core concepts.
             </p>
           </div>
         </div>
