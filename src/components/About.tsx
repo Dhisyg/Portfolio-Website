@@ -6,9 +6,19 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic quis
-          dolores numquam iusto Ratione earum ducimus autem id iure pariatur
-          dolorum quae maiores.
+          Hi, I'm Rishi 👋
+I'm a full stack developer and AI systems builder focused on creating products that are fast, purposeful, and scalable. I work at the intersection of engineering, design, and strategy.
+
+My expertise spans web development, AI agent architecture, automation systems, and digital growth strategies. Every product I build is crafted with precision and an obsession for performance.
+
+Currently building under VRTX — a product-focused team pushing the boundaries of what's possible with scalable digital infrastructure and AI tools.
+
+Full Stack Dev
+AI Agent Builder
+System Architect
+Digital Strategist
+UI/UX
+Automation
         </p>
       </div>
     </div>
