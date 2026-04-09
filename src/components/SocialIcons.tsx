@@ -74,8 +74,13 @@ const SocialIcons = () => {
             <FaXTwitter />
           </a>
         </span>
+  <span>
+          <a href="https://telegram.com/plutoplant" target="_blank">
+            <FaXTelegram />
+          </a>
+        </span>
         <span>
-          <a href="https://www.instagram.com" target="_blank">
+          <a href="https://www.instagram.com/plutoplant_" target="_blank">
             <FaInstagram />
           </a>
         </span>
