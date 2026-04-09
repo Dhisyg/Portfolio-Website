@@ -46,7 +46,7 @@ const Loading = ({ percent }: { percent: number }) => {
     <>
       <div className="loading-header">
         <a href="/#" className="loader-title" data-cursor="disable">
-          Logo
+         RISHI//DEV
         </a>
         <div className={`loaderGame ${clicked && "loader-out"}`}>
           <div className="loaderGame-container">
@@ -61,10 +61,19 @@ const Loading = ({ percent }: { percent: number }) => {
       </div>
       <div className="loading-screen">
         <div className="loading-marquee">
-          <Marquee>
-            <span> A Creative Developer</span> <span>A Creative Designer</span>
-            <span> A Creative Developer</span> <span>A Creative Designer</span>
-          </Marquee>
+         <Marquee>
+  <span> AI-Powered Websites </span>
+  <span> Automation Systems </span>
+  <span> Landing Pages </span>
+  <span> AI Agents </span>
+  <span> Scalable Web Apps </span>
+
+  <span> AI-Powered Websites </span>
+  <span> Automation Systems </span>
+  <span> Landing Pages </span>
+  <span> AI Agents </span>
+  <span> Scalable Web Apps </span>
+</Marquee>
         </div>
         <div
           className={`loading-wrap ${clicked && "loading-clicked"}`}
@@ -75,13 +84,13 @@ const Loading = ({ percent }: { percent: number }) => {
             <div className="loading-container">
               <div className="loading-content">
                 <div className="loading-content-in">
-                  Loading <span>{percent}%</span>
+                  Initializing Systems <span>{percent}%</span>
                 </div>
               </div>
               <div className="loading-box"></div>
             </div>
             <div className="loading-content2">
-              <span>Welcome</span>
+              <span>Launch Interface</span>
             </div>
           </div>
         </div>
